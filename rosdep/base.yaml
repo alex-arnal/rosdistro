@@ -3938,6 +3938,8 @@ libmysqlcppconn-dev:
   gentoo: [dev-db/mysql-connector-c++]
   opensuse: [libmysqlcppconn-devel]
   ubuntu: [libmysqlcppconn-dev]
+libmysql++-dev:
+  ubuntu: [libmysql++-dev]
 libncurses:
   arch: [ncurses]
   debian: [libncurses5]
